@@ -8,7 +8,6 @@
     <link rel="stylesheet" href="<?php echo base_url() ?>assets/backend/template/assets/css/style.css">
     <link rel="stylesheet" href="<?php echo base_url() ?>assets/backend/template/assets/plugins/notification/css/notification.min.css">
     <style>
-    <style>
     .alert span {
         cursor: pointer;
         padding-right: 5px;
